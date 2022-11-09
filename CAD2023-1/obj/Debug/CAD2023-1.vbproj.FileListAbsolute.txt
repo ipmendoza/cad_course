@@ -1,0 +1,30 @@
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.AssemblyReference.cache
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.SuggestedBindingRedirects.cache
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\Interop.AutoCAD.dll
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.ResolveComReference.cache
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023_1.frmPrincipal.resources
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023_1.Resources.resources
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.GenerateResource.cache
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.CoreCompileInputs.cache
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.exe.config
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.exe
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.pdb
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.xml
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.exe
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.xml
+D:\UNAM\semestre 2023-1\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.pdb
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.exe.config
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.exe
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.pdb
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\bin\Debug\CAD2023-1.xml
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.AssemblyReference.cache
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\Interop.AutoCAD.dll
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.ResolveComReference.cache
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023_1.frmPrincipal.resources
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023_1.Resources.resources
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.GenerateResource.cache
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.vbproj.CoreCompileInputs.cache
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.exe
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.xml
+C:\Users\Isaías Palestina Men\Downloads\wetransfer_clase-de-cad-rar_2022-10-27_0239\CLASE DE CAD\CLASE DE CAD\CAD2023-1\obj\Debug\CAD2023-1.pdb
